@@ -1,0 +1,39 @@
+html{
+    overflow: scroll;
+    position: relative;
+    scroll-behavior: auto;
+    height: 100%;
+    margin: auto;
+    
+}
+
+body{
+    overflow: scroll;
+    font-family: 'Times New Roman', Times, serif !important;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+    top: 25%;
+    background-color: rgba(0, 0, 0,0.4);
+    height: 100%;
+    margin: auto;
+    position: relative;
+    
+    
+
+}
+
+.tour{
+    overflow: scroll;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    position: relative;
+    
+    
+    
+}
+
+.contact{
+    
+}
